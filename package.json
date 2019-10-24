@@ -1,0 +1,41 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "keywords": [],
+  "main": "src/index.js",
+  "engines": {
+    "node": "v10.15.1",
+    "npm": "6.4.1"
+  },
+  "dependencies": {
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-scripts": "3.0.1"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ioanaanghelescu94/snake-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ioanaanghelescu94/snake-app/issues"
+  },
+  "homepage": "https://github.com/ioanaanghelescu94/snake-app#readme",
+  "description": ""
+}
